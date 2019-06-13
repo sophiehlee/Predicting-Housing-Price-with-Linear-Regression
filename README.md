@@ -1,6 +1,6 @@
 # Predicting-Housing-Price-with-Linear-Regression
 
-My blog post on the projet: https://sophiehlee2.wixsite.com/dsblog/post/predicting-housing-prices-using-linear-regression
+My blog post on the project: https://sophiehlee2.wixsite.com/dsblog/post/predicting-housing-prices-using-linear-regression
 
 ## About the data set
 
