@@ -1,5 +1,7 @@
 # Predicting-Housing-Price-with-Linear-Regression
 
+My blog post on the projet: https://sophiehlee2.wixsite.com/dsblog/post/predicting-housing-prices-using-linear-regression
+
 ## About the data set
 
 I've recently found an interesting dataset about housing prices in King County (which includes Seattle) on Kaggle. It contains 21,613 observations with 19 features about each house sold in King County. The features include location of the house, number of bathrooms and bedrooms, and the square footage of living room, which all affect the final price of each house. We're going to use these variables to build a linear regression model to predict the housing price. The goal was to build a model that predict the prices with a high degree of accuracy. 
